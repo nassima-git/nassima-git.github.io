@@ -101,7 +101,7 @@ P {
   Left: 0;
   Width: 100%;
   Height: Auto;
-  Background: red;
+  Background: #3e4e88;
   Box-Shadow: 0 2px 0 Rgba(0, 0, 0, 0.4);
   Z-Index: 10;
 }
