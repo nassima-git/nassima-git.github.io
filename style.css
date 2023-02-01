@@ -99,9 +99,9 @@ P {
   Position: Fixed;
   Top: 0;
   Left: 0;
-  Width: 80%;
+  Width: 100%;
   Height: Auto;
-  Background: grey;
+  Background: blue;
   Box-Shadow: 0 2px 0 Rgba(0, 0, 0, 0.4);
   Z-Index: 10;
 }
